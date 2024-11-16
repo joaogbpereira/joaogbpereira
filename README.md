@@ -21,10 +21,6 @@
 
 [CERTIFICADO PHP.pdf](https://github.com/user-attachments/files/17788125/CERTIFICADO.PHP.pdf)
 
-
-
-> _[Clique aqui](#) para ver todos os certificados detalhados no meu portfólio._
-
 ---
 
 ## 📚 O que estou aprendendo?
