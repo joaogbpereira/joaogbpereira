@@ -1,4 +1,4 @@
-[CERTIFICADO PHP.pdf](https://github.com/user-attachments/files/17788124/CERTIFICADO.PHP.pdf)# 👋 Olá, eu sou o João Gabriel!
+# 👋 Olá, eu sou o João Gabriel!
 
 🎓 **Graduando em Engenharia de Software** na [UDF](https://www.udf.edu.br/), apaixonado por tecnologia, inovação e resolução de problemas.
 
