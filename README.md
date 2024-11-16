@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Gabriel!
+[CERTIFICADO PHP.pdf](https://github.com/user-attachments/files/17788124/CERTIFICADO.PHP.pdf)# 👋 Olá, eu sou o João Gabriel!
 
 🎓 **Graduando em Engenharia de Software** na [UDF](https://www.udf.edu.br/), apaixonado por tecnologia, inovação e resolução de problemas.
 
@@ -15,8 +15,20 @@
 
 ---
 
-## ⚙️ O que estou aprendendo?
-- Domínio avançado de **MySQL**
+## 🌟 Certificados
+📜 Aqui estão alguns dos cursos e treinamentos que conclui com sucesso:
+
+
+[CERTIFICADO PHP.pdf](https://github.com/user-attachments/files/17788125/CERTIFICADO.PHP.pdf)
+
+
+
+> _[Clique aqui](#) para ver todos os certificados detalhados no meu portfólio._
+
+---
+
+## 📚 O que estou aprendendo?
+- Aprendendo banco de dados **MySQL**
 - Desenvolvimento de aplicações dinâmicas com **PHP**
 - Criação de interfaces interativas com **JavaScript**
 
