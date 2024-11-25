@@ -21,6 +21,7 @@
 
 [CERTIFICADO PHP.pdf](https://github.com/user-attachments/files/17788125/CERTIFICADO.PHP.pdf)
 [Certificado banco de dados - MYSQL.pdf](https://github.com/user-attachments/files/17896529/Certificado.banco.de.dados.-.MYSQL.pdf)
+[Certificado HTML.pdf](https://github.com/user-attachments/files/17896596/Certificado.HTML.pdf)
 
 ---
 
