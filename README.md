@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Gabriel!
+![image](https://github.com/user-attachments/assets/b18088b0-8869-4283-9568-3eedf5fe4b4f)# 👋 Olá, eu sou o João Gabriel!
 
 🎓 **Graduando em Engenharia de Software** na [UDF](https://www.udf.edu.br/), apaixonado por tecnologia, inovação e resolução de problemas.
 
@@ -20,6 +20,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/c25b5ddd-f69c-4f39-acbf-c90e35395da1)
+![image](https://github.com/user-attachments/assets/26035e8c-a8f2-412d-b821-dbd606dc8d30)
+![image](https://github.com/user-attachments/assets/859fb01d-2635-4b23-a865-806418b0bc8d)
 
 
 ---
