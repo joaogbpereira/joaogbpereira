@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b18088b0-8869-4283-9568-3eedf5fe4b4f)# 👋 Olá, eu sou o João Gabriel!
+# 👋 Olá, eu sou o João Gabriel!
 
 🎓 **Graduando em Engenharia de Software** na [UDF](https://www.udf.edu.br/), apaixonado por tecnologia, inovação e resolução de problemas.
 
