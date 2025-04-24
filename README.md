@@ -1,4 +1,4 @@
-#  Olá, eu sou o João Gabriel Pereira
+#  Olá, eu sou o João Gabriel 
 
 🎓 **Graduando em Engenharia de Software** no [Centro Universitário UDF](https://www.udf.edu.br/), entusiasta de tecnologia, inovação e da arte de resolver problemas através do código.
 
