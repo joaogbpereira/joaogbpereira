@@ -1,8 +1,8 @@
 #  Olá, eu sou o João Gabriel 
 
-🎓 **Graduando em Engenharia de Software** no [Centro Universitário UDF](https://www.udf.edu.br/), entusiasta de tecnologia, inovação e da arte de resolver problemas através do código.
+🎓 **Graduando em Engenharia de Software** no [Centro Universitário UDF](https://www.udf.edu.br/), desde pequeno sempre gostei de tecnologia/computador
 
-💻 Atualmente, tenho me aprofundado na linguagem **Python**, explorando desde conceitos fundamentais até aplicações mais práticas, como automação, estruturas de dados e desenvolvimento de scripts eficientes.
+💻 Atualmente, tenho me aprofundado na linguagem **Javascript**, explorando desde conceitos fundamentais até aplicações mais práticas, como automação, estruturas de dados e desenvolvimento de scripts eficientes.
 
 ---
 
@@ -11,7 +11,7 @@
 ### 💡 Linguagens de Programação
 - `HTML`, `CSS`
 - `JavaScript`, `PHP`
-- `Python`
+- `Java`
 
 ### 🛠️ Banco de Dados
 - `MySQL`, `PostgreSQL`, `SQLite`
@@ -35,8 +35,8 @@
 
 ## 📚 Atualmente Estudando
 
-- 🐍 Lógica de programação, automação e estruturas com **Python**
-- 🔧 Desenvolvimento de aplicações web com **PHP**
+- ☕ Automação e estruturas com **Java**
+- 🔧 Desenvolvimento de aplicações web 
 - 🎨 Criação de interfaces interativas com **JavaScript Vanilla**
 
 ---
@@ -48,13 +48,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogbpereira&layout=compact&langs_count=7&theme=radical" />
 </div>
 
----
-
-## 🤝 Vamos Conectar?
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)  
-- 💬 Aberto a novos projetos, colaborações e desafios empolgantes!
-
----
-
-> _"When something is important enough, you do it even if the odds are not in your favor - Elon Musk."_ 🚀
+"When something is important enough, you do it even if the odds are not in your favor"
