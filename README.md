@@ -1,6 +1,6 @@
 #  Olá, eu sou o João Gabriel 
 
-🎓 **Graduando em Engenharia de Software** no [Centro Universitário UDF](https://www.udf.edu.br/), desde pequeno sempre gostei de tecnologia/computador
+🎓 **Graduando em Engenharia de Software** no [Centro Universitário UDF](https://www.udf.edu.br/), desde pequeno sempre gostei de tecnologia/computação
 
 💻 Atualmente, tenho me aprofundado na linguagem **Javascript**, explorando desde conceitos fundamentais até aplicações mais práticas, como automação, estruturas de dados e desenvolvimento de scripts eficientes.
 
