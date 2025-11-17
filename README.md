@@ -14,10 +14,10 @@
 - `Java`
 
 ### 🛠️ Banco de Dados
-- `MySQL`, `PostgreSQL`, `SQLite`
+- `MySQL`, `SQLite`
 
 ### ⚙️ Ferramentas & Tecnologias
-- `Git`, `Docker`, `VS Code`, `Linux`
+- `Git`, `VS Code`,
 
 ---
 
@@ -37,7 +37,7 @@
 
 - ☕ Automação e estruturas com **Java**
 - 🔧 Desenvolvimento de aplicações web 
-- 🎨 Criação de interfaces interativas com **JavaScript Vanilla**
+- 🎨 Criação de interfaces interativas com **JavaScript/TypeScript**
 
 ---
 
